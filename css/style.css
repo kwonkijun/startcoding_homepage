@@ -1,6 +1,6 @@
 @font-face { font-family: 'BMJUA'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff'); font-weight: normal; font-style: normal; }
 
-html{
+body{
     font-family: 'BMJUA';
     scroll-behavior: smooth;
 }
@@ -18,7 +18,7 @@ html{
 }
 
 #cm-heading > .jumbotron{
-    background: url(/인프런강의용/img/heading.jpg) no-repeat fixed center;
+    background: url(../img/heading.jpg) no-repeat fixed center;
     background-size: cover;
     color : white;
     height : 40vh;
